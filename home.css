@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(Sweet\ Butterflies\ in\ Soft\ Pink\ Wallpaper\ -\ Paste\ the\ Wall_\ Smooth\,\ Matte\ Finish\ _\ 480cm\ \(\ 15\'\ 8\ \)\ _\ 270cm\ \(\ 8\'\ 10\ \).jpeg);
+    margin: 0;
+    padding: 20px;
+}
+
+.navigasi{
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+}
+.navigasi a{
+    color: #f73eb9;
+    margin-right: 150px;
+}
+
+.navigasi a:hover{
+    color: #f59bc8;
+}
+
+.isi {
+    max-width: 700px;
+    margin: auto;
+    margin-top: 100px;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+label {
+    display: contents;
+    font-weight: bold;
+    margin: 10px 0 5px;
+}
+
+input, select{
+    width: 97%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.submit-btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #e252b2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.submit-btn:hover {
+    background-color: #f380b9;
+}
